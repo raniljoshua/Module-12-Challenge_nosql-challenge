@@ -15,7 +15,7 @@ NoSQL_setup
   * Assigned the establishments collection to a variable to prepare the collection for use.
 
 * Part 2: Update the Database
-  * An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Added the provided information to the database.
+  * An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked to include it in the analysis. Added the provided information to the database.
   * Found the BusinessTypeID for "Restaurant/Cafe/Canteen" and returned only the BusinessTypeID and BusinessType fields.
   * Updated the new restaurant with the BusinessTypeID found.
   * The magazine is not interested in any establishments in Dover, so checked how many documents contained the Dover Local Authority. Then, removed any establishments within the Dover Local Authority from the database, and checked the number of documents to ensure they were deleted.
